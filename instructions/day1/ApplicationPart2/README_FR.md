@@ -34,7 +34,7 @@ Aujourd'hui, vous allez apprendre comment :
 
 ## Frontend de l'application Milligram
 
-Tout d'abord, commençons par l'application frontend - La partie que vous verrez et utiliserez sur votre téléphone mobile ou votre navigateur web. C'est le principal moyen d'interagir avec les services de Milligram.
+Tout d'abord, commençons par l'application frontend - Il s'agit de la partie que vous verrez et utiliserez sur votre téléphone mobile ou votre navigateur web. C'est le principal moyen d'interagir avec les services de Milligram.
 
 <details>
 <summary>Que signifie frontend ?</summary>
