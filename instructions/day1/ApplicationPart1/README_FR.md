@@ -7,10 +7,10 @@
 Aujourd'hui, vous allez apprendre comment :
 
 - Créer une nouvelle branche dans votre projet
-- Comment changer le titre et sa couleur de votre application
+- Personnaliser l'aspect de votre application : changer le titre et sa couleur
 - Tester vos modifications dans votre espace de code
 - Valider & pousser vos modifications
-- Ouvrir une demande de tirage & la fusionner
+- Ouvrir une demande de tirage (pull request) & la fusionner
 
 ## Table des matières
 
@@ -32,7 +32,7 @@ Tapons quelques commandes git dans le terminal pour créer une nouvelle branche.
 <details>
 <summary>Qu'est-ce qu'un terminal ?</summary>
 
-Vous avez probablement l'habitude de faire les choses sur votre ordinateur en déplaçant votre souris et en cliquant sur des choses. Il existe en fait une autre manière dont vous pouvez utiliser votre ordinateur : le terminal ! Au lieu de déplacer votre souris, vous pouvez taper une commande dans le terminal et l'ordinateur l'exécutera. Disons que vous voulez aller dans un dossier spécifique sur votre ordinateur - nous avons une commande pour cela, à savoir `cd <chemin-vers-votre-dossier>` (cd signifie change directory). Il existe de nombreuses autres commandes qui peuvent faire beaucoup de choses différentes. Nous appelons l'ensemble de toutes les commandes et de leurs combinaisons le langage de script Shell. Vous pouvez les essayer par vous-même, allez dans le terminal (la petite boîte comme montré sur la photo) et tapez `help` - cela listera toutes les commandes intégrées. N'hésitez pas à jouer avec et à les essayer pour vous familiariser avec l'environnement. Pour quelques commandes communes pratiques, vous pouvez essayer : `pwd` (affiche le chemin de votre répertoire courant, pwd signifie print working directory) et `ls` (liste tous les fichiers dans le dépôt courant)
+Vous avez probablement l'habitude de faire les manipulations sur votre ordinateur en déplaçant votre souris et en cliquant. Il existe en fait une autre manière dont vous pouvez utiliser votre ordinateur : le terminal ! Au lieu de déplacer votre souris, vous pouvez taper une commande dans le terminal et l'ordinateur l'exécutera. Disons que vous voulez aller dans un dossier spécifique sur votre ordinateur - nous avons une commande pour cela, à savoir `cd <chemin-vers-votre-dossier>` (cd signifie change directory). Il existe de nombreuses autres commandes qui peuvent faire beaucoup de choses différentes. Nous appelons l'ensemble de toutes les commandes et de leurs combinaisons le langage de script Shell. Vous pouvez les essayer par vous-même, allez dans le terminal (la petite boîte comme montré sur la photo) et tapez `help` - cela listera toutes les commandes intégrées. N'hésitez pas à jouer avec et à les essayer pour vous familiariser avec l'environnement. Pour quelques commandes communes pratiques, vous pouvez essayer : `pwd` (affiche le chemin de votre répertoire courant, pwd signifie print working directory) et `ls` (liste tous les fichiers dans le dépôt courant)
 
 </details>
 
